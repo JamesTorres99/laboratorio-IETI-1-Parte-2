@@ -278,3 +278,35 @@
 8. Implement you *TaskController* (try to avoid copy paste, use the User Microservice as reference but try doing it consciously).
 9. Test ALL the endpoints of your API using PostMan or any other tool of your preference.
 
+
+### Crear Usuario
+
+![img](img/1.PNG)
+
+verificación
+
+![img](img/2.PNG)
+
+### Ver los usuarios
+
+![img](img/3.PNG)
+
+### ver usuario
+
+![img](img/4.PNG)
+
+### editar usuario
+
+![img](img/5.PNG)
+
+verificación
+
+![img](img/6.PNG)
+
+### eliminar usuario
+
+![img](img/7.PNG)
+
+verificación
+
+![img](img/8.PNG)
